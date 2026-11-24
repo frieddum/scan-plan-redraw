@@ -1,0 +1,5 @@
+ezdxf>=1.4,<2
+numpy>=1.26
+opencv-python>=4.8,<6
+Pillow>=10
+PyMuPDF>=1.24,<2
